@@ -8,8 +8,8 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a> 
 
-<a href="https://instagram.com/pyoloo.08">
-  <img height="50" src="https://github.com/user-attachments/assets/dc8ce22b-bd9d-4a69-88b4-25bba389cc6a.png"/>
+<a href="www.linkedin.com/in/mpiolopascual">
+  <img height="50" src="https://res.cloudinary.com/du1mw6ozf/image/upload/v1734830526/1727490_linkedin_social_media_job_network_icon_r0wxsu.png"/>
 </a> 
  </p>
 
