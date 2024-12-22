@@ -12,7 +12,7 @@
 </a>  
  </p>
 
-# 👨🏻‍💻  A Little Bit About Me and My Interests
+## 👨🏻‍💻  A Little Bit About Me and My Interests
 ```yaml
 name: Mark Piolo Pascual
 located_in: Hong Kong, Tuen Mun
@@ -42,12 +42,9 @@ currently_learning: ["Docker and Kubernetes"]
 2025 Goals: ["Create 10+ Projects and learn at least 2-15 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Playing Guitar", "Music", "Art"]
 ```
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devPyoloo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devPyoloo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devPyoloo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=devPyoloo&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀  Some Tools I Have Used and Learned:
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
