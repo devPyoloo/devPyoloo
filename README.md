@@ -9,7 +9,7 @@
 </a> 
 
 <a href="https://instagram.com/pyoloo.08">
-  <img height="50" src="![image](https://github.com/user-attachments/assets/dc8ce22b-bd9d-4a69-88b4-25bba389cc6a)"/>
+  <img height="50" src="https://github.com/user-attachments/assets/dc8ce22b-bd9d-4a69-88b4-25bba389cc6a.png"/>
 </a> 
  </p>
 
