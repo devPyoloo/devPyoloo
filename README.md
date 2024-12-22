@@ -14,38 +14,33 @@
 
 # 👨🏻‍💻  A Little Bit About Me and My Interests
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Mark Piolo Pascual
+located_in: Hong Kong, Tuen Mun
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Bachelor's in Information Technology",
   ]
-company: Soulber
+
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
+    "Data Analyst",
     "Machine Learning",
     "UI/UX",
-    "Game Development",
+    "Software Development",
     "DevOps",
   ]
 technical_background:
   [
     "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Intern - Production and Technical Support (IoT)",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Docker and Kubernetes"]
+2025 Goals: ["Create 10+ Projects and learn at least 2-15 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Playing Guitar", "Music", "Art"]
 ```
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devPyoloo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
