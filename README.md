@@ -1,6 +1,6 @@
-
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:DE7C7D,100:AF1740&text=Hello!&reversal=false&section=header&fontColor=F8FAFC&textBg=false"/>
-
+</p>
 
 # <p align="center"> Let's Connect and have a Chat!💬
 <p align="center">
@@ -67,5 +67,6 @@ hobbies: ["Gaming", "Cinema", "Playing Guitar", "Music", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="45" height="45"/>          
 </p>
 
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:DE7C7D,100:AF1740&text=Hello!&reversal=false&section=footer&fontColor=F8FAFC&textBg=false"/>
-
+</p>
