@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:DE7C7D,100:AF1740&text=Hello!&reversal=false&section=header&fontColor=F8FAFC&textBg=false"/>
 </p>
 
-## <p align="center" text="50px"> Let's Connect and have a Chat!💬
+# <p align="center"> Let's Connect and have a Chat!💬
 <p align="center">
   <a href="https://instagram.com/pyoloo.08">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
