@@ -68,5 +68,5 @@ hobbies: ["Gaming", "Cinema", "Playing Guitar", "Music", "Art"]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:DE7C7D,100:AF1740&text=Hello!&reversal=true&section=header&fontColor=F8FAFC&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:DE7C7D,100:AF1740&text=Hello!&reversal=false&section=footer&fontColor=F8FAFC&textBg=false"/>
 </p>
